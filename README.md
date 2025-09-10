@@ -1,4 +1,4 @@
-# SRT2speech
+# srt2voice
 Generate speech stream for subtitle file
 
 For a specified SRT subtitle file, the program generates an audio track for the movie. 
